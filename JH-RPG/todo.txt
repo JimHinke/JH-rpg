@@ -1,0 +1,10 @@
+#TODO
+
+DONE #Lägg till en riktig karta
+DONE #Lägg till player animationer som uppdateras om playern står still, rör sig eller slåss i de fyra olika riktningarna. (2:10:20)
+DONE #Lägg till vapen som animeras om playern slås
+#Lägg till en healthbar som kan uppdateras om man levlar upp/playern förlorar HP
+#Lägg till en pause funktion
+#Lägg till interaktiva objekt
+#Lägg till interaktiva NPCs
+
